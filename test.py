@@ -4,7 +4,6 @@ import test_1
 from PyQt5.QtWidgets import QMainWindow
 from PyQt5 import QtWidgets
 import sys
-import pymysql
 
 host = 'localhost'
 user = 'root'
